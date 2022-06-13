@@ -1,0 +1,3 @@
+2022-06-13 14:13:31 INFO  HandlingMultipleExceptions:30 - Hello world
+  2022-06-13 14:13:58 INFO  HandlingMultipleExceptions:30 - Exception occurs java.lang.NullPointerException
+  
